@@ -1,9 +1,0 @@
-Index-
-    Dashboard - 
-        CPU
-        Memory
-        Temperature
-    
-    Alerts - 
-        DOS
-        Bruteforce
