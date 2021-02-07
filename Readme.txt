@@ -7,3 +7,4 @@ And for the visualisations we are using the Kibana Dashboard with Elastic Server
 
 Because we are using all the open source softwares and integrating them with each other we dont have a physical code to upload
 
+we are also uploading the ubuntu vm on which we installed everything ( configured )
